@@ -1,0 +1,198 @@
+#EXTM3U
+############## VARIEDADES ##############
+
+#EXTINF:0 tvg-logo="https://www.google.com.br/imgres?imgurl=http%3A%2F%2Fg.glbimg.com%2Fog%2Fgs%2Fgsat5%2Ff%2Fthumbs%2Fpadrao%2F2014%2F05%2F25%2Fplaceholder_cda.jpg&imgrefurl=http%3A%2F%2Fgnt.globo.com%2Fprogramas%2F&docid=Q5tIYo2XxtJBvM&tbnid=gawnP8LB5ueDtM%3A&vet=10ahUKEwjBg-i0-IfbAhVDUJAKHbLlBYEQMwgyKAEwAQ..i&w=620&h=385&bih=615&biw=911&q=GNT&ved=0ahUKEwjBg-i0-IfbAhVDUJAKHbLlBYEQMwgyKAEwAQ&iact=mrc&uact=8" group-title="",GNT
+http://185.210.216.145:8081/live/132/chunks.m3u8?nimblesessionid=611271&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDEyOjUzOjM3IFBNJmhhc2hfdmFsdWU9OGVXNXdwRmJuVlZaYU1jbUlUc25xUT09JnZhbGlkbWludXRlcz0xMA==
+
+
+#EXTINF:0 tvg-logo="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fwww.otvfoco.com.br%2Fwp-content%2Fuploads%2F2018%2F01%2Fglobo-antiga.png&imgrefurl=https%3A%2F%2Fwww.otvfoco.com.br%2Fconheca-9-curiosidades-chocantes-das-novelas-da-globo-no-passado%2F&docid=IiX_aSfX_qAFOM&tbnid=eusXd7s2RWiSwM%3A&vet=10ahUKEwjT5_rB-IfbAhVRmJAKHS9RA6oQMwiOASgDMAM..i&w=502&h=497&bih=615&biw=911&q=GLOBO&ved=0ahUKEwjT5_rB-IfbAhVRmJAKHS9RA6oQMwiOASgDMAM&iact=mrc&uact=8" group-title="",GLOBO
+http://live.onlinenatv.com:8081/live/ver8b1f11ec23e010737aaed9/chunks.m3u8?nimblesessionid=700987&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDEyOjM3OjQ0IFBNJmhhc2hfdmFsdWU9QS9xOEgwVjlnRmg1ZC9ZVHNPL2l1QT09JnZhbGlkbWludXRlcz0yMA==
+
+
+#EXTINF:0 tvg-logo="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fwww.areavip.com.br%2Fwp-content%2Fuploads%2F2016%2F12%2FSBT-Logo.jpg&imgrefurl=https%3A%2F%2Fwww.areavip.com.br%2Ftelevisao%2Fsbt-comeca-2017-com-nova-grade-de-programacao%2F&docid=U6XINVBhNcH_MM&tbnid=wgKKtoLI6iIhXM%3A&vet=10ahUKEwj_1JrK-IfbAhXDCpAKHclGDB8QMwioASgEMAQ..i&w=750&h=500&bih=615&biw=911&q=SBT&ved=0ahUKEwj_1JrK-IfbAhXDCpAKHclGDB8QMwioASgEMAQ&iact=mrc&uact=8" group-title="",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fstatic.noticiasaominuto.com.br%2Fstockimages%2F1920%2Fnaom_5a69c0b4ef0b1.jpg%3F1517414230&imgrefurl=https%3A%2F%2Fwww.noticiasaominuto.com.br%2Fesporte%2F514079%2Fband-nao-renova-contrato-e-comentarista-e-retirado-do-ar&docid=pqQxeXY9e3CbkM&tbnid=8Ngsm5nJBqVCLM%3A&vet=10ahUKEwiV6YDU-IfbAhWGgpAKHcZLAxIQMwg6KAcwBw..i&w=1920&h=1080&bih=615&biw=911&q=BAND&ved=0ahUKEwiV6YDU-IfbAhWGgpAKHcZLAxIQMwg6KAcwBw&iact=mrc&uact=8" group-title="",BAND
+http://162.244.80.76/loadbalance/bandhd/playlist.m3u8?pxAuth=30WpTK9ySoBDaTFFuDQ9PPtgihvSPO2f
+
+
+#EXTINF:0 tvg-logo="https://www.google.com.br/imgres?imgurl=http%3A%2F%2Frecordtv.r7.com%2Fwp-content%2Fplugins%2FR7%2Fsocial%2Fimages%2Flogo-recordtv-og.png&imgrefurl=http%3A%2F%2Frecordtv.r7.com%2F&docid=qqaCjY_Rwghk8M&tbnid=6DDlG8nNHsDbJM%3A&vet=10ahUKEwjLpejd-IfbAhUCg5AKHXTaBdsQMwgyKAAwAA..i&w=200&h=200&bih=615&biw=911&q=RECORD&ved=0ahUKEwjLpejd-IfbAhUCg5AKHXTaBdsQMwgyKAAwAA&iact=mrc&uact=8" group-title="",RECORD
+http://167.99.218.244/loadbalance/record2278/chunks.m3u8?pxAuth=v9P5NP3albXSCh7Ky2dkBg4uiF0PMQgx
+
+
+#EXTINF:0 tvg-logo="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fi1.wp.com%2Ffamososnaweb.com.br%2Fwp-content%2Fuploads%2F2014%2F07%2FRedeTV-Logo1.png%3Fssl%3D1&imgrefurl=https%3A%2F%2Ffamososnaweb.com%2Fgrupo-norte-americano-quer-comprar-uma-parte-da-rede-tv%2F&docid=mG83pSXgJwSsLM&tbnid=NF-fQYqdK4MLAM%3A&vet=10ahUKEwi_4s7m-IfbAhUIFpAKHWZgBIEQMwhyKAMwAw..i&w=500&h=241&bih=615&biw=911&q=REDETV&ved=0ahUKEwi_4s7m-IfbAhUIFpAKHWZgBIEQMwhyKAMwAw&iact=mrc&uact=8" group-title="",REDETV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1702629634.m3u8
+
+#EXTINF:0 tvg-logo="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D159393664079248&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Ftvcultura%2F&docid=dWbZ97e3fg5kKM&tbnid=MPJMVLcLLvXkWM%3A&vet=10ahUKEwiEwM_z-IfbAhVJH5AKHd-sCwAQMwhhKAIwAg..i&w=400&h=400&bih=615&biw=911&q=TV%20CULTURA&ved=0ahUKEwiEwM_z-IfbAhVJH5AKHd-sCwAQMwhhKAIwAg&iact=mrc&uact=8" group-title="",CULTURA
+http://cdn2.comets.com.br/tvbaianahd/aovivo/chunklist.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fs2.glbimg.com%2FylLqPuBGeyaSBx8aeHbdEAKWfFU%3D%2Fs3.glbimg.com%2Fv1%2FAUTH_180b9dd048d9434295d27c4b6dadc248%2Fmedia_kit%2F77%2Fa1%2Fb8fd82699208eb566d9605652bd3.png&imgrefurl=https%3A%2F%2Fglobosatplay.globo.com%2Fviva%2F&docid=lzQ9AS6uyydOvM&tbnid=OQCAdc_9NpVBHM%3A&vet=10ahUKEwjuuNr7-IfbAhVLPJAKHVJsDmgQMwiWASgAMAA..i&w=1280&h=720&bih=615&biw=911&q=VIVA&ved=0ahUKEwjuuNr7-IfbAhVLPJAKHVJsDmgQMwiWASgAMAA&iact=mrc&uact=8" group-title="",VIVA
+http://89.46.101.200:8081/live/master21/chunks.m3u8?nimblesessionid=194533&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6NDQ6MDggUE0maGFzaF92YWx1ZT1PVmhTdHh6bGt3OVJXdk5oaFQ1OHJnPT0mdmFsaWRtaW51dGVzPTEw
+
+
+#EXTINF:0 tvg-logo="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F913471139497824258%2Fpkct1TE7_400x400.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2Fmultishow&docid=t5MnOqIFuByLsM&tbnid=AOxilwifzlalsM%3A&vet=10ahUKEwigwo-Y-YfbAhUHDpAKHceVBXcQMwhoKAEwAQ..i&w=400&h=400&bih=615&biw=911&q=MULTSHOW&ved=0ahUKEwigwo-Y-YfbAhUHDpAKHceVBXcQMwhoKAEwAQ&iact=mrc&uact=8" group-title="",MULTISHOW
+http://185.210.216.145:8081/live/brlive_0031/chunks.m3u8?nimblesessionid=611730&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6NDM6MDMgUE0maGFzaF92YWx1ZT1tVUdtbnFqN2c2TzluNDhTZExhTkVRPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",MTV
+http://89.46.101.200:8081/live/hbohd/chunks.m3u8?nimblesessionid=195196&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDI6MDc6NDMgUE0maGFzaF92YWx1ZT1VVVh2YXJyWk15MDkyeHg2cHhWcFNBPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",CANÇÃO NOVA
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_540_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-logo="" group-title="",AXN
+http://stream01.enviandotorpedos.com/hls/redecanais-axn.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",A&N
+http://185.210.216.145:8081/live/ae_1/chunks.m3u8?nimblesessionid=611653&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6MzM6MjcgUE0maGFzaF92YWx1ZT1hMTlDNkJRSUpvVVgzVkx6eW1hbFlBPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",TNT
+http://167.99.210.252/loadbalance/tnthd/chunks.m3u8?pxAuth=t3uHbYFoXx4tBqn0tOBwoLfUXDTM6EvY
+
+#EXTINF:0 tvg-logo="" group-title="",FOX
+http://89.46.101.200:8081/live/fox/chunks.m3u8?nimblesessionid=193591&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDEyOjU1OjMyIFBNJmhhc2hfdmFsdWU9UUtYb0J3NWpvMTVJYmI0N0ZIcXB0UT09JnZhbGlkbWludXRlcz0xMA==
+
+#EXTINF:0 tvg-logo="" group-title="",FOX PREMIUM 1
+http://162.244.80.112/loadbalance/13945963548438544165/chunks.m3u8?pxAuth=Wx7ZuiF2lP9HxbIarQtwBvJg0r5P9yRS
+
+#EXTINF:0 tvg-logo="" group-title="",FOX PREMIUM 2
+http://162.244.80.80/loadbalance/86286526837465378731/chunks.m3u8?pxAuth=omH9YAEcvlzCazL3kMRnJc7aBgvQVhIr
+
+#EXTINF:0 tvg-logo="" group-title="",MEGAPIX
+http://162.244.80.13/loadbalance/megapixhd/chunks.m3u8?pxAuth=ier5S7UwcsnDPDXgDcX0yEEPRCYqpYlH
+
+
+#EXTINF:0 tvg-logo="" group-title="",WARNER
+http://185.210.216.145:8081/live/master22/chunks.m3u8?nimblesessionid=611364&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6MDM6MTYgUE0maGFzaF92YWx1ZT1SUlAxSEJDRWF5azlvNmZsTmZLeVBRPT0mdmFsaWRtaW51dGVzPTEw
+
+
+#EXTINF:0 tvg-logo="" group-title="",SYFY
+http://89.46.101.200:8081/live/103/chunks.m3u8?nimblesessionid=193789&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6MDQ6MzcgUE0maGFzaF92YWx1ZT1NdlgwSHE3ZW8zSVN0K0ZITmhMa0RnPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",CINE+
+http://185.210.216.145:8081/live/132/chunks.m3u8?nimblesessionid=611271&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDEyOjUzOjM3IFBNJmhhc2hfdmFsdWU9OGVXNXdwRmJuVlZaYU1jbUlUc25xUT09JnZhbGlkbWludXRlcz0xMA==
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE FUN
+http://162.244.80.76/loadbalance/telecinefun/chunks.m3u8?pxAuth=xES6zz8TIaIcTaEFpTKRX6AAX6jbXzZ7
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE PREMIUM
+http://162.244.80.80/loadbalance/telecinepremium/chunks.m3u8?pxAuth=2qxSbjt3ExlmFZHBi4CFpMiuNA1xGgF3
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE PIPOCA
+http://162.244.80.112/loadbalance/telecinepipoca/chunks.m3u8?pxAuth=ZTJFijpFynmVNE4Aoz1J94v4BItYEV7b
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE ACTION
+http://167.99.213.86/loadbalance/telecineaction/chunks.m3u8?pxAuth=puC7kxMJ3b1RMK1JxTjlOnqoqXkzUJJD
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE CULTURA
+http://162.244.80.90/loadbalance/78821716219658219924/chunks.m3u8?pxAuth=qS54p3yWPIwdEGRN9s9KNKOq1ii6r6gI
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE TOUCH
+http://167.99.218.244/loadbalance/telecinetouch/chunks.m3u8?pxAuth=X3RZt65XVJwDX04GUsiytIvR0SbDY1s2
+
+#EXTINF:0 tvg-logo="" group-title="",SONY
+http://89.46.101.200:8081/live/sony/chunks.m3u8?nimblesessionid=193875&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6MDg6MjMgUE0maGFzaF92YWx1ZT1oZWhjMDgycU9CMmNqUFZVMHBTaSt3PT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",TNT
+http://89.46.101.200:8081/live/master77_1/chunks.m3u8?nimblesessionid=194076&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6MjA6NTAgUE0maGFzaF92YWx1ZT1nQjVZNmFkSzM3VXUydVZyWkVKNEhRPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",TNT SERIES
+http://stream01.enviandotorpedos.com/hls/redecanais-tntseries.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="",AMC
+http://89.46.101.200:8081/live/104/chunks.m3u8?nimblesessionid=194090&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6MjE6NDQgUE0maGFzaF92YWx1ZT1UVUpVQVFhTDhnbUxuNXd3Wkk1OUFBPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",STUDIO UNIVERSAL
+http://89.46.101.200:8081/live/studio/chunks.m3u8?nimblesessionid=194246&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6Mjk6NTkgUE0maGFzaF92YWx1ZT1PK1FjRE85UWkzUDZzTEVZbTZ3MFpnPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",FX
+http://stream01.enviandotorpedos.com/hls/redecanais-fx.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",TLC
+http://stream01.enviandotorpedos.com/hls/redecanais-tlc.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",TCM
+http://89.46.101.200:8081/live/tcm/chunks.m3u8?nimblesessionid=194386&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6MzY6NDEgUE0maGFzaF92YWx1ZT1NQmdtd0hzUUVKejVnSEh3ODZTM2NRPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",PARAMOUND CHANNEL
+http://stream01.enviandotorpedos.com/hls/redecanais-paramount.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="",GLOOB
+http://185.210.216.145:8081/live/110hd/chunks.m3u8?nimblesessionid=611710&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6NDA6MzMgUE0maGFzaF92YWx1ZT1PM2xxaWhxOG9tMTN3Zk0wZ1pGN1FRPT0mdmFsaWRtaW51dGVzPTEw
+
+
+
+#EXTINF:0 tvg-logo="" group-title="",CARTOON NETWORK
+http://89.46.101.200:8081/live/brlive_0028/chunks.m3u8?nimblesessionid=193900&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6MTA6MTMgUE0maGFzaF92YWx1ZT1ZTkxnVXYxajhvZFhzdDN3UmlvTXpRPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",CARTOON GOSPEL
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=1825968560
+
+#EXTINF:0 tvg-logo="" group-title="",NICKELODEON
+http://185.210.216.145:8081/live/brlive_0030/chunks.m3u8?nimblesessionid=611430&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6MTI6MzYgUE0maGFzaF92YWx1ZT1iOTdEaHJhWjlQVUorSWRwbmVBamp3PT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",NICKELODEON
+http://89.46.101.200:8081/live/nickjr/chunks.m3u8?nimblesessionid=193948&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6MTM6MzMgUE0maGFzaF92YWx1ZT1jTlFEMmJSQWVmSWF4aE1Nck9BZ3Z3PT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",DISNEY JR
+http://185.210.216.145:8081/live/animax/chunks.m3u8?nimblesessionid=611471&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6MTQ6NTUgUE0maGFzaF92YWx1ZT1MYnoxdU5OaENFbDJqRlhGMXN4V0dRPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",DISNEY CHANNEL
+http://stream01.enviandotorpedos.com/hls/redecanais-disney.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",DICOVERY KIDS
+http://89.46.101.200:8081/live/master24/chunks.m3u8?nimblesessionid=194037&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6MTg6MzUgUE0maGFzaF92YWx1ZT1pUHBqd1BQYU9QQlZSUEtJQzYyWWNRPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",HBO
+http://stream01.enviandotorpedos.com/hls/redecanais-hbo.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",HBO2
+http://stream01.enviandotorpedos.com/hls/redecanais-hbo2.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",HBO PLUS
+http://stream01.enviandotorpedos.com/hls/redecanais-hboplus.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",HBO FAMILY
+http://stream01.enviandotorpedos.com/hls/redecanais-hbofamily.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",HBO SIGNATURE
+http://89.46.101.200:8081/live/108/chunks.m3u8?nimblesessionid=195041&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDI6MDE6NDEgUE0maGFzaF92YWx1ZT1YVzN5cG5KclFTZStCOENlVytrWWtRPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",HITORY
+http://89.46.101.105:8081/live/history/chunks.m3u8?nimblesessionid=646107&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6NDk6MTYgUE0maGFzaF92YWx1ZT02b1VCZDJHcFZ2NEZ4ekg4Y2FNRWZRPT0mdmFsaWRtaW51dGVzPTEw
+
+
+#EXTINF:0 tvg-logo="" group-title="",H2
+http://stream01.enviandotorpedos.com/hls/redecanais-history2.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="",NATIONAL GEOGRAFIC
+http://89.46.101.200:8081/live/natgeo/chunks.m3u8?nimblesessionid=194758&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6NTA6NDcgUE0maGFzaF92YWx1ZT1wZFptNXljK21pQUM2V3I3N3RTVlh3PT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",ANIMAL PLANET
+http://89.46.101.200:8081/live/30/chunks.m3u8?nimblesessionid=194804&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6NTM6MTkgUE0maGFzaF92YWx1ZT1SVFlqcG8xOXRWY3dUYlBHTEdvTkhBPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY
+http://89.46.101.200:8081/live/master04/chunks.m3u8?nimblesessionid=194849&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6NTQ6MzcgUE0maGFzaF92YWx1ZT1OaWF5RTA3WVNUKytYaGVOTlJYTXd3PT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY TURBO
+http://89.46.101.200:8081/live/turbo/chunks.m3u8?nimblesessionid=194869&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6NTU6NDAgUE0maGFzaF92YWx1ZT14eEc3dU13U1l2S3gyZjdDR0xCamxBPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY INVESTIGATION
+http://89.46.101.105:8081/live/105/chunks.m3u8?nimblesessionid=646178&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDE6NTc6MTUgUE0maGFzaF92YWx1ZT1hbXlPR0ZtaHBiRTFZRG9XZHI5S2hRPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY HOME & HELT
+http://185.210.216.145:8081/live/106/chunks.m3u8?nimblesessionid=611984&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDI6MDU6MDYgUE0maGFzaF92YWx1ZT03elUrNXJBdG1rUDR0blhpTGxGQ3RRPT0mdmFsaWRtaW51dGVzPTEw
+
+
+#EXTINF:0 tvg-logo="" group-title="",RECORD NEWS
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?wowzasessionid=1491658375
+
+#EXTINF:0 tvg-logo="" group-title="",TRUE TV
+http://162.244.80.229/loadbalance/54824125184473443938/chunks.m3u8?pxAuth=TEI22ClYoTo2c9AxMFs3t575ZUbGvdXb
+
+
+
